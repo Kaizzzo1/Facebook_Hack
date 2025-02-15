@@ -18,7 +18,7 @@ apt update && apt upgrade -y
 apt install git -y
 ```
 ```bash
-git clone https://github.com/hackerxphantom/Facebook_hack.git
+git clone https://github.com/Kaizzzo1/Facebook_Hack.git
 ```
 ```bash
 cd Facebook_hack
