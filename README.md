@@ -1,20 +1,8 @@
-# Facebook_hack
+# Facebook_Hack
 
-![PicsArt_22-06-08_16-34-50-148](https://user-images.githubusercontent.com/70594016/172602116-20012d77-f4c2-45a6-a5fb-391f683c0f05.png)
 ###### Powerfull Facebook Bruteforce Attack.
 ***
-### <p align="center">Commands to run tool in ur terminal Termux && Kali Linux
-***
 
- ```bash
-Note : Tool is Made of Educational Purposes only.
-       Please try not to harm anyone device 
-       it's For Fun Purpose Not For Revenge
-       (Join Us https://bit.ly/3PV3S3r)
-```
-## Language is used to Make this tool
-- Python
-  
 ## The Tool is for :
 - Windows
 - Kali Linux
