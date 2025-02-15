@@ -21,7 +21,7 @@ apt install git -y
 git clone https://github.com/Kaizzzo1/Facebook_Hack.git
 ```
 ```bash
-cd Facebook_hack
+cd Facebook_Hack
 ```
 ```bash
 bash setup
